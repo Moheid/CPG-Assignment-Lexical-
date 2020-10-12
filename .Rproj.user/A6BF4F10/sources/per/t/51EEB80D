@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602326979863.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "3806965038",
+    "id" : "51EEB80D",
+    "lastKnownWriteTime" : 1602484375,
+    "last_content_update" : 1602484375269,
+    "path" : "~/PR SKILLS/PERSONAL FILES/ACTIVE LEARNING 2020/1. DATA SCIENCE/1.1. MILESTONE ONE/COURSERA/DATA SCIENCE 2020/R PROG/Course 2 - R Programming/swirl_practice_C2W3/makeCacheMatrix.R",
+    "project_path" : "makeCacheMatrix.R",
+    "properties" : {
+        "cursorPosition" : "13,1",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
